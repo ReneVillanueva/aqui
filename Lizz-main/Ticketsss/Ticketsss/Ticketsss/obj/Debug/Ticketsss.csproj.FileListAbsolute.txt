@@ -1,0 +1,16 @@
+C:\Users\renev\Desktop\Ticketsss\Ticketsss\bin\Debug\Ticketsss.exe.config
+C:\Users\renev\Desktop\Ticketsss\Ticketsss\bin\Debug\Ticketsss.exe
+C:\Users\renev\Desktop\Ticketsss\Ticketsss\bin\Debug\Ticketsss.pdb
+C:\Users\renev\Desktop\Ticketsss\Ticketsss\obj\Debug\Ticketsss.csproj.AssemblyReference.cache
+C:\Users\renev\Desktop\Ticketsss\Ticketsss\obj\Debug\Ticketsss.csproj.SuggestedBindingRedirects.cache
+C:\Users\renev\Desktop\Ticketsss\Ticketsss\obj\Debug\Ticketsss.csproj.CoreCompileInputs.cache
+C:\Users\renev\Desktop\Ticketsss\Ticketsss\obj\Debug\Ticketsss.exe
+C:\Users\renev\Desktop\Ticketsss\Ticketsss\obj\Debug\Ticketsss.pdb
+C:\Users\Alumno\Downloads\Lizz-main\Ticketsss\Ticketsss\Ticketsss\obj\Debug\Ticketsss.csproj.AssemblyReference.cache
+C:\Users\Alumno\Downloads\Lizz-main\Ticketsss\Ticketsss\Ticketsss\obj\Debug\Ticketsss.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\Downloads\Lizz-main\Ticketsss\Ticketsss\Ticketsss\obj\Debug\Ticketsss.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Downloads\Lizz-main\Ticketsss\Ticketsss\Ticketsss\obj\Debug\Ticketsss.exe
+C:\Users\Alumno\Downloads\Lizz-main\Ticketsss\Ticketsss\Ticketsss\obj\Debug\Ticketsss.pdb
+C:\Users\Alumno\Downloads\Lizz-main\Ticketsss\Ticketsss\Ticketsss\bin\Debug\Ticketsss.exe.config
+C:\Users\Alumno\Downloads\Lizz-main\Ticketsss\Ticketsss\Ticketsss\bin\Debug\Ticketsss.exe
+C:\Users\Alumno\Downloads\Lizz-main\Ticketsss\Ticketsss\Ticketsss\bin\Debug\Ticketsss.pdb
